@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9238673549",
+    "project_id": "eleaningapp-2a274",
+    "storage_bucket": "eleaningapp-2a274.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9238673549:android:53b0484299a1cb55fb8ac4",
+        "android_client_info": {
+          "package_name": "com.example.mobile_e_learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ6ructN0R63z7KWr2p93B77zbdxQOLVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
