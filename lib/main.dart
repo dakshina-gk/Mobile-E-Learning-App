@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:mobile_e_learning_app/Login/before_login.dart';
+import 'package:mobile_e_learning_app/admin/admin_dashboard.dart';
 import 'screens/home_screen.dart';
 
 void main() async {
@@ -17,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: true, // ✅ enable Material 3 modern UI
       ),
-      home: HomeScreen(),
+      home:BeforeLogin(),
     );
   }
 }
