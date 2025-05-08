@@ -2199,7 +2199,7 @@
             "outputFile": "com.example.mobile_e_learning_app-debug-31:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\MSI\\Documents\\GitHub\\Mobile-E-Learning-App\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\MSI\\Documents\\GitHub\\Student-Management-System\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -3354,7 +3354,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\MSI\\Documents\\GitHub\\Mobile-E-Learning-App\\build\\app\\generated\\res\\processDebugGoogleServices\\values\\values.xml",
+                    "source": "C:\\Users\\MSI\\Documents\\GitHub\\Student-Management-System\\build\\app\\generated\\res\\processDebugGoogleServices\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
@@ -3479,7 +3479,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\MSI\\Documents\\GitHub\\Mobile-E-Learning-App\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\MSI\\.gradle\\caches\\8.10.2\\transforms\\88d89fc7b530de56e7a369a9fb5879e1\\transformed\\lifecycle-runtime-2.7.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    },
+                    "to": {
+                        "startLines": "154",
+                        "startColumns": "4",
+                        "startOffsets": "8001",
+                        "endColumns": "42",
+                        "endOffsets": "8039"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\MSI\\Documents\\GitHub\\Student-Management-System\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -3495,23 +3512,6 @@
                         "endLines": "201,204",
                         "endColumns": "12,12",
                         "endOffsets": "12465,12634"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\MSI\\.gradle\\caches\\8.10.2\\transforms\\88d89fc7b530de56e7a369a9fb5879e1\\transformed\\lifecycle-runtime-2.7.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "42",
-                        "endOffsets": "93"
-                    },
-                    "to": {
-                        "startLines": "154",
-                        "startColumns": "4",
-                        "startOffsets": "8001",
-                        "endColumns": "42",
-                        "endOffsets": "8039"
                     }
                 }
             ]
